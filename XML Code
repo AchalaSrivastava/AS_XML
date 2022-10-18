@@ -1,0 +1,108 @@
+<?xml version=“1.0”?>
+<Hotel>
+   <Customer> // For the first Record
+      <ID>70172</ID>
+      <Gender>Male</Gender>
+      <Age>13</Age>
+      <Purpose_Of_Travel>Aviation</Purpose_Of_Travel>
+      <Type_Of_Travel>Personal Travel</Type_Of_Travel>
+      <Type_Of_Booking>Not defined</Type_Of_Booking>
+      <Satisfaction_Score>
+         <Hotel_wifi_service>3</Hotel_wifi_service>
+         <Departure_Arrival_Convenience>4</Departure_Arrival_Convenience>
+         <Ease_Of_Online_Booking>3</Ease_Of_Online_Booking>
+         <Hotel_location>1</Hotel_location>
+         <Food_and_drink>5­­</Food_and_drink>           
+         <Stay_comfort>5</Stay_comfort>
+         <Common_Room_entertainment>5</Common_Room_entertainment>
+         <Checkin_Checkout_Service>4</Checkin_Checkout_Service>
+         <Other_service>5</Other_service>
+         <Cleanliness>5</Cleanliness>
+         <Satisfaction>neutral or dissatisfied</Satisfaction>
+      </Satisfaction_Score>
+   </Customer>
+   <Customer> // For the 2nd Record
+      <ID>5047</ID>
+      <Gender>Male</Gender>
+      <Age>25</Age>
+      <Purpose_Of_Travel>Tourism</Purpose_Of_Travel>
+      <Type_Of_Travel>Group Travel</Type_Of_Travel>
+      <Type_Of_Booking>Group Booking</Type_Of_Booking>
+      <Satisfaction_Score>
+         <Hotel_wifi_service>3</Hotel_wifi_service>
+         <Departure_Arrival_Convenience>2</Departure_Arrival_Convenience>
+         <Ease_Of_Online_Booking>3</Ease_Of_Online_Booking>
+         <Hotel_location>3</Hotel_location>
+         <Food_and_drink>1</Food_and_drink>         
+         <Stay_comfort>1</Stay_comfort>
+         <Common_Room_entertainment>1</Common_Room_entertainment>
+         <Checkin_Checkout_Service>1</Checkin_Checkout_Service>
+         <Other_service>4</Other_service>
+         <Cleanliness>1</Cleanliness>
+         <Satisfaction>neutral or dissatisfied</Satisfaction>
+      </Satisfaction_Score>
+   </Customer>
+   <Customer> // For the 3rd Record
+      <ID>82113</ID>
+      <Gender>Male</Gender>
+      <Age>47</Age>
+      <Purpose_Of_Travel>Academic</Purpose_Of_Travel>
+      <Type_Of_Travel>Personal Travel</Type_Of_Travel>
+      <Type_Of_Booking>Individual/Couple</Type_Of_Booking>
+      <Satisfaction_Score>
+         <Hotel_wifi_service>2</Hotel_wifi_service>
+         <Departure_Arrival_Convenience>4</Departure_Arrival_Convenience>
+         <Ease_Of_Online_Booking>2</Ease_Of_Online_Booking>
+         <Hotel_location>3</Hotel_location>
+         <Food_and_drink>2</Food_and_drink>      
+         <Stay_comfort>2</Stay_comfort>
+         <Common_Room_entertainment>2</Common_Room_entertainment>
+         <Checkin_Checkout_Service>3</Checkin_Checkout_Service>
+         <Other_service>5</Other_service>
+         <Cleanliness>2</Cleanliness>
+         <Satisfaction>neutral or dissatisfied</Satisfaction>
+      </Satisfaction_Score>
+   </Customer>
+   <Customer> // For the 4th Record
+      <ID>35032</ID>
+      <Gender>Female</Gender>
+      <Age>42</Age>
+      <Purpose_Of_Travel>Business</Purpose_Of_Travel>
+      <Type_Of_Travel>Group Travel</Type_Of_Travel>
+      <Type_Of_Booking>Individual/Couple</Type_Of_Booking>
+      <Satisfaction_Score>
+         <Hotel_wifi_service>5</Hotel_wifi_service>
+         <Departure_Arrival_Convenience>1</Departure_Arrival_Convenience>
+         <Ease_Of_Online_Booking>4</Ease_Of_Online_Booking>
+         <Hotel_location>1</Hotel_location>
+         <Food_and_drink>3</Food_and_drink>           
+         <Stay_comfort>3</Stay_comfort>
+         <Common_Room_entertainment>5</Common_Room_entertainment>
+         <Checkin_Checkout_Service>3</Checkin_Checkout_Service>
+         <Other_service>5</Other_service>
+         <Cleanliness>1</Cleanliness>
+         <Satisfaction>satisfied</Satisfaction>
+      </Satisfaction_Score>
+   </Customer>
+   <Customer>  // For the 5th Record
+      <ID>105708</ID>
+      <Gender>Female</Gender>
+      <Age>42</Age>
+      <Purpose_Of_Travel>Personal</Purpose_Of_Travel>
+      <Type_Of_Travel>Group Travel</Type_Of_Travel>
+      <Type_Of_Booking>Group Bookings</Type_Of_Booking>
+      <Satisfaction_Score>
+         <Hotel_wifi_service>5</Hotel_wifi_service>
+         <Departure_Arrival_Convenience>5</Departure_Arrival_Convenience>
+         <Ease_Of_Online_Booking>5</Ease_Of_Online_Booking>
+         <Hotel_location>5</Hotel_location>
+         <Food_and_drink>4</Food_and_drink>
+         <Stay_comfort>5</Stay_comfort>
+         <Common_Room_entertainment>2</Common_Room_entertainment>
+         <Checkin_Checkout_Service>5</Checkin_Checkout_Service>
+         <Other_service>2</Other_service>
+         <Cleanliness>3</Cleanliness>
+         <Satisfaction>satisfied</Satisfaction>
+      </Satisfaction_Score>
+   </Customer>
+</Hotel>
